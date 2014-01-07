@@ -1,4 +1,4 @@
 PySnippets
 ==========
 
-Python Snippets
+python code snippets
